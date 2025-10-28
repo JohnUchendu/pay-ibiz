@@ -1,3 +1,5 @@
+"use client"
+
 // app/pay/[id]/page.tsx
 import { notFound } from 'next/navigation';
 import MonnifyButton from '@/components/MonnifyButton';
